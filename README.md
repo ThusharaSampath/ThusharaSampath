@@ -1,15 +1,17 @@
+<!-- ![Tharuka Mannapperuma Banner](https://raw.githubusercontent.com/TharukaMannapperuma/TharukaMannapperuma/main/assets/banner.png) -->
 
+<!-- <img alt="Night Coding" src="./assets/hand.png" width='40' align="left"/><h2>Hey there! I'm Tharuka</h2> -->
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to learn,read,explore and try new thing always.\
 🎓 &nbsp;I'm currently studying at Electronic and Telecommunication Engineering department, University of Moratuwa.\
-🌱 &nbsp;I'm on track for learning more about Internet of Things, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue watching TV Series, Writing codes as hobbies/side hustles.\
-✉️ &nbsp;You can contact me through [Gmail](mailto:tlmannapperuma@gmail.com) or tharuka@mannapperuma.com! I'll try to respond as soon as I can.\
-🌎 &nbsp;You can visit my portfolio through https://mannapperuma.com \
-📜 &nbsp;You can find my achievements [here](https://www.credly.com/users/tharukamannapperuma/badges)
+🌱 &nbsp;I'm on track of learning spring boot, C++/C in embedded system and Software define networks.\
+✍️ &nbsp;In my free time, I play video games such as PUBG and COD or play guitar or draw something.\
+✉️ &nbsp;You can contact me through [Gmail](mailto:mkt.sampath97@gmail.com)! I'll try to respond as soon as I can.\
+🌎 &nbsp;You can visit my portfolio through https://mkthusharasampath.web.app
+<!-- 📜 &nbsp;You can find my achievements [here](https://www.credly.com/users/tharukamannapperuma/badges) -->
 
-<img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/>
+<!-- <img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,35 +20,41 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node-RED](https://img.shields.io/badge/-NodeRED-05122A?style=flat&logo=Node-RED&logoColor=8F0000)&nbsp;\
+![NodeJs](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![GCP](https://img.shields.io/badge/-gcp-05122A?style=flat&logo=gcp)&nbsp;
+![Ardunio](https://img.shields.io/badge/-arduino-05122A?style=flat&logo=arduino)&nbsp;\
+![Node-RED](https://img.shields.io/badge/-NodeRED-05122A?style=flat&logo=Node-RED&logoColor=8F0000)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=8F0000)&nbsp;
+![Wordpress](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress&logoColor=8F0000)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?logo=php&logoColor=777BB4&style=flat)&nbsp;
+![MYSQL](https://img.shields.io/badge/-mysql-05122A?logo=mysql&logoColor=777BB4&style=flat)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&logoColor=00979D)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase&logoColor=00979D)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=CodeIgniter&logoColor=EF4223)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/TharukaMannapperuma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TharukaMannapperuma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TharukaMannapperuma&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/ThusharaSampath">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThusharaSampath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThusharaSampath&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://mannapperuma.com"><img src="https://img.shields.io/badge/-mannapperuma.com-3423A6?style=flat&logo=Microsoft-Edge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tharukamannapperuma"><img src="https://img.shields.io/badge/-Tharuka%20Mannapperuma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tlmannapperuma@gmail.com"><img src="https://img.shields.io/badge/-tlmannapperuma@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:tharuka@mannapperuma.com"><img src="https://img.shields.io/badge/-tharuka@mannapperuma.com-30B980?style=flat&logo=Minutemailer&logoColor=white"/></a>
-<a href="https://facebook.com/tharukamannapperuma"><img src="https://img.shields.io/badge/-@Tharuka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+<a href="https://mkthusharasampath.web.app/"><img src="https://img.shields.io/badge/-mkthusharasampath.web.app-3423A6?style=flat&logo=Microsoft-Edge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thushara-sampath-323286186/"><img src="https://img.shields.io/badge/-Thushara%20Sampath-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mkt.sampath97@gmail.com"><img src="https://img.shields.io/badge/-mkt.sampath97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mkt.sampath@yahoo.com"><img src="https://img.shields.io/badge/-mkt.sampath@yahoo.com-3423A6?style=flat&logo=Yahoo&logoColor=white"/></a>
+<a href="https://www.facebook.com/thushara.sampatha.5"><img src="https://img.shields.io/badge/-Thushara%20Sampath-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
