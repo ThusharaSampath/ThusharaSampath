@@ -2,6 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ThusharaSampath) ![Github](https://img.shields.io/github/followers/ThusharaSampath?label=Follow&style=social)
+
 💡 &nbsp;I like to learn,read,explore and try new thing always.\
 🎓 &nbsp;I'm currently studying at Electronic and Telecommunication Engineering department, University of Moratuwa.\
 🌱 &nbsp;I'm on track of learning spring boot, C++/C in embedded system,Software define networks and React Native.\
