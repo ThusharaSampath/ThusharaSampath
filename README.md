@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to learn,read,explore and try new thing always.\
 🎓 &nbsp;I'm currently studying at Electronic and Telecommunication Engineering department, University of Moratuwa.\
-🌱 &nbsp;I'm on track of learning spring boot, C++/C in embedded system and Software define networks.\
+🌱 &nbsp;I'm on track of learning spring boot, C++/C in embedded system,Software define networks and React Native.\
 ✍️ &nbsp;In my free time, I play video games such as PUBG and COD or play guitar or draw something.\
 ✉️ &nbsp;You can contact me through [Gmail](mailto:mkt.sampath97@gmail.com)! I'll try to respond as soon as I can.\
 🌎 &nbsp;You can visit my portfolio through https://mkthusharasampath.web.app
