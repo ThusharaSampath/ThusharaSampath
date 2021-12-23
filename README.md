@@ -45,8 +45,6 @@
 <a href="https://github.com/ThusharaSampath">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThusharaSampath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThusharaSampath&layout=compact&langs_count=8&theme=tokyonight"/>
-[![DinithHerath's wakatime stats](https://github-readme-stats.ThusharaSampath.vercel.app/api/wakatime?username=ThusharaSampath&v=2)](https://github.com/anuraghazra/github-readme-stats)
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ThusharaSampath&theme=merko&hide_border=true" alt="zumrudu-anka"/>
   </a>
 </p>
 
