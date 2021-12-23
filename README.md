@@ -1,6 +1,3 @@
-<!-- ![Tharuka Mannapperuma Banner](https://raw.githubusercontent.com/TharukaMannapperuma/TharukaMannapperuma/main/assets/banner.png) -->
-
-<!-- <img alt="Night Coding" src="./assets/hand.png" width='40' align="left"/><h2>Hey there! I'm Tharuka</h2> -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to learn,read,explore and try new thing always.\
@@ -9,9 +6,7 @@
 ✍️ &nbsp;In my free time, I play video games such as PUBG and COD or play guitar or draw something.\
 ✉️ &nbsp;You can contact me through [Gmail](mailto:mkt.sampath97@gmail.com)! I'll try to respond as soon as I can.\
 🌎 &nbsp;You can visit my portfolio through https://mkthusharasampath.web.app
-<!-- 📜 &nbsp;You can find my achievements [here](https://www.credly.com/users/tharukamannapperuma/badges) -->
 
-<!-- <img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
